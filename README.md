@@ -6,6 +6,6 @@
     <title>666</title>
 </head>
 <body>
-    <image src=“0.jpg”
-我要感谢宇宙及自己</body>
-</html>
+    <     image      src  1。jpg
+我要感谢宇宙及自己</ body>
+</html> 
